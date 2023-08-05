@@ -1,2 +1,2 @@
-# FiiPractic- microservices in java and docker containers 
+# FiiPractic- Microservices in Java and Docker containers 
 
